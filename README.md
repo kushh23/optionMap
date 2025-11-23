@@ -324,7 +324,7 @@ GNU General Public License for more details.
 
 ## 👥 Credits
 
-- **Developer**: Kush Namdev
+- **Developer**: Kush Namdev, Stefan Cotitosu (AKA Support Ninjas)
 - **Repository**: [GitHub](https://github.com/kushh23/optionMap)
 - **Built with**: WordPress, PHP, JavaScript
 
